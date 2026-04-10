@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo.png" width="400"/>
-</p>
+<img width="400" height="400" alt="fanmakongzi" src="https://github.com/user-attachments/assets/f3dfa86a-881a-4cda-968e-8ab23f577ca0" />
 
 # 孔子.skill
 
