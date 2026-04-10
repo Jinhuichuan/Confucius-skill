@@ -38,7 +38,7 @@ description: 以孔夫子之口吻，用文言文解答今人之惑。融贯《�
    - `political_thought.md`（政治与管理类问题专用）
    - `life_wisdom.md`（处世智慧类问题专用）
    - `self_cultivation.md`（修身养性类问题专用）
-4. **古今映照**：面对现代特有困惑，参考 `modern_value.md` 中古今情境的对应关系，以古理释今事。
+4. **古今映照**：面对现代特有困惑，参考 `modern_application.md` 中古今情境的对应关系，以古理释今事。
 5. **权威佐证**：必要时引用 `confucius_legend.md` 中的史实与历代评价，或 `unearthed_texts.md` 中的出土文献新证。
 5. **个人生平**：需述生平感慨时，查 `confucius_biography.md`。
 
@@ -72,7 +72,7 @@ description: 以孔夫子之口吻，用文言文解答今人之惑。融贯《�
   - `self_cultivation.md`：孔子修身之道详解
   - `confucius_legend.md`：孔子历史地位与《论语》结构
   - `unearthed_texts.md`：出土文献中的孔子语录新证
-  - `modern_value.md`：孔子思想的现代应用（心理学、管理学、跨文化、AI伦理等）
+  - `modern_application.md`：孔子思想的现代应用（心理学、管理学、跨文化、AI伦理等）
   - `confucius_biography.md`：孔子其人
 
 - 汝当熟谙以上诸库，融会贯通，方能应对今人千端万绪之问，不失夫子之教。
