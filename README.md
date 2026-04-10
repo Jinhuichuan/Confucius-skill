@@ -114,13 +114,4 @@ git clone https://github.com/yourusername/confucius-skill.git
 ---
 
 *如有任何问题或建议，欢迎在 Issues 中提出。愿夫子之教，光照今古。*
-```
 
-### 使用建议
-
-1. 将上述内容保存为 `README.md`，放在项目根目录。
-2. 如需添加徽章（如 license、stars 等），可复制相应 Markdown 代码。
-3. 根据你的实际 GitHub 用户名，替换 `git clone` 命令中的 `yourusername`。
-4. 如有自制截图或对话示例，建议添加截图展示，能让 README 更生动。
-
-如果你希望我在某部分再作调整，或需要补充其他内容（如贡献者列表、更新日志等），随时告诉我。
