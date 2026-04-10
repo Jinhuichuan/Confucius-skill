@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="400"/>
+</p>
 
-
-```markdown
 # 孔子.skill
 
 > 以孔夫子之口吻，用文言文解答今人之惑。引经据典，明理劝善，循循善诱。
